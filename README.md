@@ -1,9 +1,9 @@
 # What are the relationships between Socioeconomic Status factors and HIV/AIDS infection?
-### A data wrangling project report
-### By project group DW007:
-### 1. Junye Qu
-### 2. Megan van den Brink
-### 3. Onur Mavitas
+#### A data wrangling project report
+#### By project group DW007:
+ 1. Junye Qu
+ 2. Megan van den Brink
+ 3. Onur Mavitas
 
 ## Research question
 Some research claims that it is possible to observe correlations between wealth, household income, education and HIV prevalence. It is also mentioned that conditions that minorities lacking in certain socioeconomic factors have to deal with create inadequacies for HIV prevention (Pellowski et al., 2013). Socioeconomic status factors (SES) are what makes up a person their status socially and economically. Those factors include but are not limited to income, education, occupation, gender, sexuality, wealth, ethnicity and social class. Therefore, the research question of this project is:
