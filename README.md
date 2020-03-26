@@ -12,7 +12,7 @@ The project is focused on region, country, wealth, sexuality, availability of he
 
 ## Data sources
 AIDS | UNAIDS last accessed on : 16-01-2020
-Men who have sex with men
+Men who have sex with men \n
 People who know their status (%)
 
 World Health organization – HIV/AIDS last accessed on : 16-01-2020
