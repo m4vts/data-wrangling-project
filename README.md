@@ -12,15 +12,18 @@ The project is focused on region, country, wealth, sexuality, availability of he
 
 ## Data sources
 AIDS | UNAIDS last accessed on : 16-01-2020
+
 ● Men who have sex with men
 ● People who know their status (%)
 
 World Health organization – HIV/AIDS last accessed on : 16-01-2020
+
 ● Number of people (all ages) living with HIV Estimates by country
 ● Number of new HIV infections Estimates by country
 ● Number of deaths due to HIV/AIDS Estimates by country
 
 The World Bank last accessed on: 22-01-2020
+
 ● GDP (current US$)
 ● Prevalence of HIV, total (% of population ages 15-49)
 ● Population
