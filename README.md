@@ -11,27 +11,7 @@ What are the relationships between Socioeconomic Status factors and HIV/AIDS inf
 The project is focused on region, country, wealth, sexuality, availability of healthcare, gender and their correlation to HIV.
 
 ## Data sources
-AIDS | UNAIDS last accessed on : 16-01-2020
-Men who have sex with men
-People who know their status (%)
-
-World Health organization – HIV/AIDS last accessed on : 16-01-2020
-Number of people (all ages) living with HIV Estimates by country
-Number of new HIV infections Estimates by country
-Number of deaths due to HIV/AIDS Estimates by country
-
-The World Bank last accessed on: 22-01-2020
-● GDP (current US$)
-● Prevalence of HIV, total (% of population ages 15-49)
-● Population
-● Prevalence of HIV, total (% of population ages 15-49)         
-● GINI index for income Inequality (World Bank estimate)
-● Incidence of tuberculosis (per 100,000 people)
-● Unemployment, total (% of total labor force) (modeled ILO estimate)
-● School enrollment, secondary (% gross)
-
-OECD| Data|Violence against women last accessed on: 20-01-2020 
-Maps - Sexual orientation laws last accessed on: 24-01-2020
+[AIDS | UNAIDS](https://aidsinfo.unaids.org) last accessed on : 16-01-2020
 
 ## Data wrangling methods 
 ### Data acquisition
