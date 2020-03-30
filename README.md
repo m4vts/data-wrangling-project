@@ -66,6 +66,7 @@ Not only were the values for the countries in Sub-Saharan Africa almost complete
 
 <img width="555" alt="Screen Shot 2020-03-26 at 22 52 59" src="https://user-images.githubusercontent.com/51910678/77690583-969eb000-6fb4-11ea-88dc-bc047928288b.png">
 *‘Homophobic violence and conservative attitudes can prevent sexual minorities to get the healthcare they need.’* (HIV and AIDS in South Africa, 2019)
+
 HIV is most prevalent in men having homosexual contact. According to literature, this is because they are a minority discriminated heavily against in the form of violence and healthcare denial. (HIV and AIDS in South Africa)
 Therefore, a hypothesis was that there is a correlation between LGBT rights in the country and HIV prevalence among Men having Sex with Men (MSM).
 Research in this phenomenon showed that the countries with the lower percentages of HIV among MSM seemed to be pioneers on LGBT rights and the people in countries with high numbers are heavily discriminated against. A dataset containing data on whether or not same sex marriage was legal within a country was added as a way to visualize the most progressive countries concerning LGBT was plotted against percentages. This visualization seemed to support the hypothesis.
