@@ -65,7 +65,7 @@ The dataset used has values of certain features for the years 2000, 2010 and 201
 Not only were the values for the countries in Sub-Saharan Africa almost complete, here HIV was actually prevalent in such a way theory could be tested against it. After grouping and visualizing the percentage of HIV per Sub Saharan country by income group, it was observed that the values for upper middle income increased over the years. At the same time there are less countries in that income group than others so the mean value for upper middle income might have changed more easily. Nonetheless, correlating wealth directly with HIV prevalence does not accurately reflect other underlying social drivers and structural factors in a country or a region.
 
 <img width="555" alt="Screen Shot 2020-03-26 at 22 52 59" src="https://user-images.githubusercontent.com/51910678/77690583-969eb000-6fb4-11ea-88dc-bc047928288b.png">
-*‘Homophobic violence and conservative attitudes can prevent sexual minorities to get the healthcare they need.’* (HIV and AIDS in South Africa, 2019)
+‘Homophobic violence and conservative attitudes can prevent sexual minorities to get the healthcare they need.’ (HIV and AIDS in South Africa, 2019)
 
 HIV is most prevalent in men having homosexual contact. According to literature, this is because they are a minority discriminated heavily against in the form of violence and healthcare denial. (HIV and AIDS in South Africa)
 Therefore, a hypothesis was that there is a correlation between LGBT rights in the country and HIV prevalence among Men having Sex with Men (MSM).
